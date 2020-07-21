@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACC,QAAS,CACT,SAAU,CACV,mBAAoB,CACpB,qBACD,CAEA,gBACC,WACD","file":"main.1681e2fb.chunk.css","sourcesContent":["* {\n\tmargin: 0;\n\tpadding: 0;\n\tfont-family: Courier;\n\tbox-sizing: border-box;\n}\n\nhtml, body, .root {\n\theight: 100%;\n}"]}
